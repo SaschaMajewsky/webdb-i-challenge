@@ -1,5 +1,7 @@
 # Database Queries
 
+# Author: Sascha Majewsky
+
 ## Topics
 
 - Relational Databases
